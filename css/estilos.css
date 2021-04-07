@@ -1,0 +1,152 @@
+
+body{
+    background-color: black;
+}
+button{
+    border: solid;
+    cursor: pointer;
+}
+.imagenes__fondo{
+    position: absolute;
+    width: 620px;
+    height: 790px;
+    left: 0px;
+    top: 0px;
+}
+
+.imagenes__logo1{
+    position: absolute;
+    width: 505px;
+    height: 505px;
+    left: 60px;
+    top: 175px;
+    background-image: none;
+}
+.login input{
+    background-color: black;
+    color: gray;
+    border-color: gray;
+    font-family: 'PT Sans', sans-serif;
+    font-size:x-large;
+    border: solid;
+}
+
+.login__email{
+    position: absolute;
+    width: 207px;
+    height: 54px;
+    left: 680px;
+    top: 46px;
+}
+.login__contra{
+    position: absolute;
+    width: 207px;
+    height: 54px;
+    left: 922px;
+    top: 46px;
+}
+.login__btn{
+    position: absolute;
+    width: 207px;
+    height: 54px;
+    left: 1164px;
+    top: 46px;
+    border-radius: 45px;
+    background-color: black;
+    color: #00acee;
+    border-color: #00acee;
+    font-family: 'PT Sans', sans-serif;
+    font-size: large;
+}
+.login a{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    width: 229px;
+    height: 17px;
+    left: 930px;
+    top: 109px;
+    text-decoration: none;
+    color: #00acee;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.logo2{
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    left: 717px;
+    top: 160px;
+}
+.textos{
+    font-family: Decovar Alpha;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.textos__titulo{
+    position: absolute;
+    width: 626px;
+    height: 163px;
+    left: 679px;
+    top: 237px;
+    font-size: 70px;
+    line-height: 88px;
+}
+.textos__subtitulo{
+    position: absolute;
+    width: 499px;
+    height: 61px;
+    left: 677px;
+    top: 440px;
+    font-size: 36px;
+    line-height: 40px;    
+}
+.botones button{
+    border-radius: 45px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 25px;
+}
+
+.botones__resgitro{
+    position: absolute;
+    width: 421px;
+    height: 71px;
+    left: 702px;
+    top: 568px;
+    background: #00acee;
+    border-color: #00acee;
+    color: white;
+}
+.botones__inicioS{
+    position: absolute;
+    width: 421px;
+    height: 71px;
+    left: 702px;
+    top: 657px;
+    background-color: black;
+    color: #00acee;
+    border-color: #00acee;
+    font-family: 'PT Sans', sans-serif;
+    font-size: large;
+}
+
+.enlaces a{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    bottom: 0%;
+    color: #8B8888;
+    margin-top:50px;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 800px;
+    margin-left: 100px;
+    text-align: center;
+}
